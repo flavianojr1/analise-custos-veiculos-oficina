@@ -51,5 +51,5 @@ Este projeto realiza uma análise dos dados de ordens de serviço de uma oficina
 
 ## Autor
 
-Projeto criado por [Seu Nome].  
+Projeto criado por Flaviano Astolfo Junior.  
 Contato: [flavianoastolfojunior@gmail.com]
